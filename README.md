@@ -10,3 +10,5 @@ LIBRELABUCM ES LA MEJOR ASOCIACIÓN DEL MUNDO
   - ¡Síguenos! https://twitter.com/LibreLabUCM
 
 Gran taller, mejores profesores
+
+¡Unete a la comunidad del Software Libre!
